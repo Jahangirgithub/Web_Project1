@@ -1,0 +1,1 @@
+document.write("Hello Akbar Darling.How can I help you");
